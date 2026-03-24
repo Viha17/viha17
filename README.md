@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I'm Vihanga Anush, a dedicated [Your Role, e.g., "web developer," "tech enthusiast," "student"]. My background in [mention background briefly, e.g., "technology studies or projects"] fuels my passion for web development and exploring new tech innovations. Currently, I’m on a journey to advance my skills in development, with a focus on creating user-friendly and efficient solutions.
+I'm Vihanga Anush, a dedicated full stack developer and a computer science undergraduate. My background in technology fuels my passion for software development and exploring new tech innovations. Currently, I’m on a journey to advance my skills in development, with a focus on creating user-friendly and efficient solutions.
 
 ---
 
